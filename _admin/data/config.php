@@ -1,5 +1,5 @@
 <?php return array (
-  'password' => '1canDOit',
+  'password' => 'hu790623',
   'host' => 'http://downloads.openwrt.org/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
